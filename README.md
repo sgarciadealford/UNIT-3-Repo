@@ -1,6 +1,13 @@
 # UNIT-3-Repo
 This is the Repository for Unit 3
 
-MSDS DDS UNIT 3
+# This Repository has several useful files for Unit 3
 
-Added EducationData from MSDS 6371
+## PowerPoint
+Breakout Unit 3.csv
+
+## Breakout 2
+LiveSession3RCodeCLTFunction.R
+
+## Breakout 3
+EducationData.csv
